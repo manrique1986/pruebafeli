@@ -1,6 +1,6 @@
 const FirstBlock = () => {
     return (
-      <div className="flex flex-col items-center justify-center bg-gray-50 p-4">
+      <div className="flex flex-col items-center justify-center  p-4">
         {/* Titulo centrado */}
         <h1 className="text-[72px] font-bold text-center mb-8" style={{ color: '#001122' }}>
           ¡Gracias por confiar!
