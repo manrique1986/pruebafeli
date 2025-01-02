@@ -15,13 +15,13 @@ const Footer = () => {
             href="tel:+123456789"
             className="text-lg font-medium hover:underline"
           >
-            +123 456 789
+           +54 3585411552
           </a>
           <a
             href="mailto:contacto@ejemplo.com"
             className="text-lg font-medium hover:underline"
           >
-            contacto@ejemplo.com
+           agenciafbb@gmail.com
           </a>
         </div>
       </div>
