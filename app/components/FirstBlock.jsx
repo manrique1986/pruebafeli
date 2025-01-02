@@ -21,7 +21,7 @@ const FirstBlock = () => {
         </div>
   
         {/* Párrafo explicativo */}
-        <p className="text-center text-lg text-gray-700 max-w-64 mx-auto leading-relaxed">
+        <p className="text-center text-lg text-gray-700  mx-auto leading-relaxed">
           Te explicamos cómo funciona nuestro servicio y cómo personalizarlo con opciones exclusivas para ti.
         </p>
   

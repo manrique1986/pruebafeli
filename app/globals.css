@@ -19,3 +19,18 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/* styles/globals.css */
+.text-shadow-lg {
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7); /* Sombra de texto */
+}
+
+.text-outline {
+  color: white;
+  text-shadow: 
+    1px 1px 0 rgba(0, 0, 0, 0.9),  
+    -1px -1px 0 rgba(0, 0, 0, 0.9),
+    1px -1px 0 rgba(0, 0, 0, 0.9),
+    -1px 1px 0 rgba(0, 0, 0, 0.9); /* Contorno */
+}
+
